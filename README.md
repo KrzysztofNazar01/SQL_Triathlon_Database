@@ -7,7 +7,7 @@ This project was created as a part of “Databases” classes on Gdańsk Univers
 The goal of design and implementation of the database is to develop technology in the model of adding to this situation using diagrams of service points, in the implementation of a diagram in the form of a relational database, in conjunction with the formulation of interactive data to the database in SQL, and in planning and this database transaction procedure. During the course, the student has three tasks - all of them are based on the same topic selected at the beginning of the project activities.
 The report of the project consists of 3 major parts:
  1. Assumptions
- 2. ERD diagram with description
+ 2. ERD with description
  3. Sample SELECT queries
 
 ## Assumptions
@@ -64,7 +64,7 @@ The database is to improve the development process of future representatives in 
 • the average calorific value of the diet in women between 18 and 40 years of age
 
 
-## ERD Diagram
+## Entity-Relationship Diagram (ERD)
 
 ![obraz](https://user-images.githubusercontent.com/72522808/193752257-a30d163d-639d-4663-93b6-b0ed58d6efc9.png)
 
