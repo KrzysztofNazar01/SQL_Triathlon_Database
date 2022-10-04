@@ -3,6 +3,8 @@
 ## Description
 This project was created as a part of “Databases” classes on Gdańsk University of Technology. It contains SQL code to create the tables, insert data into them as well as to delete the data.
 
+The final report is uploaded to this repository as "*Final Raport DB Project KN.pdf*"
+
 ## 1. The goal of the project 
 The goal of design and implementation of the database is to develop technology in the model of adding to this situation using diagrams of service points, in the implementation of a diagram in the form of a relational database, in conjunction with the formulation of interactive data to the database in SQL, and in planning and this database transaction procedure. During the course, the student has three tasks - all of them are based on the same topic selected at the beginning of the project activities.
 The report of the project consists of 3 major parts:
